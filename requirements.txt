@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+requests
+boto3
+faker
+python-dotenv
+jupyter
+ipykernel
